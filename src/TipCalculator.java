@@ -37,7 +37,7 @@ public class TipCalculator {
 
         System.out.println("___________________________________");
 
-        //Printing lines - doing the math operations
+        //Printing lines and  doing the math operations
         totalTip = tipPercentage/100 * billBeforeTip;
         System.out.println("Total Bill Before Tip: " + (billBeforeTip));
         System.out.println("Tip Percentage: " + formatter.format(tipPercentage));

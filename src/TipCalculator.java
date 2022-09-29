@@ -47,14 +47,6 @@ public class TipCalculator {
         System.out.println("Tip Per Person: " + formatter.format(totalTip/numOfPeople));
         System.out.println("Total Cost Per Person: " + formatter.format((totalTip + billBeforeTip)/numOfPeople));
 
-
-
-
-
-
-
-
-
     }
 
 }
